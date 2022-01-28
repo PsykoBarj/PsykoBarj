@@ -4,5 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img href="https://discord.gg/fUSCcGde" src="https://img.shields.io/discord/718218321845026907?style=plastic" width="100"/>
+  <img src="https://img.shields.io/discord/718218321845026907?style=plastic" width="100"/>
 </div>
+
+<a href="https://discord.gg/fUSCcGde">Lien de mon serveur discord, clic ici !</a>
